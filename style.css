@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container {
+    height: 400px;
+    width: 400px;
+    border-style: solid;
+}
+
+.image1 {
+    height: 150px;
+    width: 200px;
+
+}
+
+.heading1 {
+    text-align: center;
+    font-size: 22px;
+    font-family: bree serif;
+    color: #183b56;
+}
+
+.paragraph1 {
+    font-size: 14px;
+    color: #616e7c;
+    font-family: bree serif;
+}
+
+.image2 {
+    height: 100px;
+    width: 160px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+.top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 40vh;
+    background-size: cover;
+}
+
+.top-section-heading {
+    color: white;
+    font-family: Caveat;
+    width: 200px;
+    padding: 10px;
+    font-size: 40px;
+}
+
+.bottom-section {
+    background-color: #e6f6ff;
+    height: 600px;
+    text-align: center;
+
+}
+
+.card-item {
+    text-align: center;
+    background-color: white;
+    width: 150px;
+    height: 200px;
+    border-radius: 15px;
+    padding: 16px;
+    margin: 10px;
+}
+
+.card-image {
+    height: 100px;
+    width: 100px;
+}
+
+.card-name {
+    font-size: 20px;
+    color: #616e7c;
+    font-weight: normal;
+
+}
+
+.card-price {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.bg-containeradv {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.card-containeradv {
+    background-color: white;
+    height: 50px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #ffffff;
+}
+
+.card-titleadv {
+    font-family: Bree Serif;
+    font-size: 25px;
+    margin: 10px;
+    color: #5752ab;
+}
+
+.card-paragraphadv {
+    font-family: Roboto;
+    font-size: 15px;
+    color: #323f4b;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.button1adv {
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+    border-width: 1px;
+    background-color: #ffffff;
+    color: #5752ab;
+    margin: 10px;
+}
+
+.button2adv {
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+    border-width: 0px;
+    background-color: #171f46;
+    color: white;
+    margin: 10px;
+
+}
+
+.bg-containernews {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.card-containernews {
+    background-color: white;
+    height: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px;
+
+}
+
+.card-titlenews {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 15PX;
+
+}
+
+.card-paragraph1news {
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: bold;
+
+}
+
+.card-paragraphnews {
+    font-family: Roboto;
+    font-size: 12px;
+}
+
+.card-buttonnews {
+    border-radius: 10px;
+    height: 45px;
+    width: 150px;
+    border-width: 0px;
+    background-color: black;
+    color: white;
+    margin: 8px;
+}
+
+.cdnews {
+    margin: 8px;
+}
+
+.bg-containermeals {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.cademeals {
+    text-align: left;
+    height: 200px;
+    width: 400px;
+    padding: 30px;
+    background-color: #f6c56e;
+    font-family: Bree Serif;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+
+}
+
+.paragraphmeals {
+    text-align: left;
+    font-family: Roboto;
+    font-size: 20px;
+    padding: 2px;
+
+}
+
+.buttonmeals {
+    text-align: center;
+    background-color: #ffffff;
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+    border-width: 0px;
+    font-family: Roboto;
+    padding: 5px;
+}
